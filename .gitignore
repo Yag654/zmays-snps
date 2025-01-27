@@ -1,2 +1,3 @@
 data/seqs/*.fastq
-src/
+/src
+/zmays-snps-Jim
