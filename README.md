@@ -4,4 +4,4 @@ Project started 2013-01-03
 TODO: ask sequencing center about adapters
 Samples expected from sequencing core 2013-01-10
 Samples expected from sequencing core 2013-01-11
-\n\nMaize reerence genome version: refgen3
+\n\nWe downlaoded refgen3 on 2013-01-04
